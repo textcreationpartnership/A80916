@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highness the Lord Protector, upon his actual dissolution of the Parliament of England, on Munday the 22th of January, 1654. With the grounds and reasons which moved him thereunto. And his protestation to the people, touching the law of the land, the discipline of the church, and their ancient rights and priviledges. Examined, and perused, by the original copy; and ordered to be printed and published for general satisfaction.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80916</idno>
+            <idno type="STC">Wing C7085</idno>
+            <idno type="STC">Thomason E826_13*</idno>
+            <idno type="STC">ESTC R207728</idno>
+            <idno type="EEBO-CITATION">99866764</idno>
+            <idno type="PROQUEST">99866764</idno>
+            <idno type="VID">119050</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119050)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E826[13*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highness the Lord Protector, upon his actual dissolution of the Parliament of England, on Munday the 22th of January, 1654. With the grounds and reasons which moved him thereunto. And his protestation to the people, touching the law of the land, the discipline of the church, and their ancient rights and priviledges. Examined, and perused, by the original copy; and ordered to be printed and published for general satisfaction.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of Publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan. 31. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119050:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF His Highneſs the Lord Protector, upon his actual Diſſolution of the Parliament of England, on Mun<g ref="char:EOLhyphen"/>day the 22<hi rend="sup">th</hi> of January, 1654. With the Grounds and Rea<g ref="char:EOLhyphen"/>ſons which moved him thereunto. And his Proteſtation to the People, touching the Law of the Land, the Diſcipline of the Church, and their ancient Rights and Priviledges.</p>
+            <p>
+               <hi>EXamined, and peruſed, by the Original Copy; And ordered to be printed and publiſhed for general ſatisfaction.</hi>
+            </p>
+            <figure>
+               <figDesc>portrait of Oliver Cromwell framed by laurels</figDesc>
+               <p>O P</p>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert Wood,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:119050:2"/>
+            <pb n="3" facs="tcp:119050:2"/>
+            <head>A Declaration of his Higbneſs the Lord Protector, concerning the diſſolution of the late Parliament.</head>
+            <p>WHereas his Highneſs the Lord protect<g ref="char:EOLhyphen"/>or having, for ſome moneths by-paſt, taken a ſerious Review of the fruitleſs Tranſactions of the late Parliament; and finding, the whole National inte<g ref="char:EOLhyphen"/>reſt ſo much depending upon their Actions, that with<g ref="char:EOLhyphen"/>out removing the Cauſe, the Diſeaſe would not ceaſe, conceived himſelf oblieged, both to God and Man, to deliver the people of <hi>England</hi> out of Thraldom; which could no ways be made effective, but by removing of thoſe Cedars, which ſuffered Bryers to grow up with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:119050:3"/>Reſtriction; And withall conſidering that the five moneths (according to the Inſtrument of the Govern<g ref="char:EOLhyphen"/>ment for the time alotted to ſit) being expired his High<g ref="char:EOLhyphen"/>neſs (on Munday the 22 of January) ſent a Meſſage to the Parliament to meet him in the Painted Chamber, where about 12 of the clock he met with them; and de<g ref="char:EOLhyphen"/>clared himſelf as followeth:</p>
+            <p>THat he conceived what he had formerly declared, would have proved ſo memorable a <hi>Memento,</hi> that no means would have been left unaſſayed, or attempt<g ref="char:EOLhyphen"/>ed, by this Parliament, to have produced glorious things for the people laying open unto them how good a con<g ref="char:EOLhyphen"/>dition they found the Commonwealth in, and that the Engliſh people are as good a people to do for as any in the World.</p>
+            <p>Then his Highneſs declared unto them how God had owned them, and that they knew one another at home, and were known abroad, and that though he held him<g ref="char:EOLhyphen"/>ſelf concerned to be owned by them in conſultations for the good of the Common wealth; yet ſince they ſigned the Recognition at their entrance into the Parlia<g ref="char:EOLhyphen"/>ment he heard not of them, could not tell whether they were alive or dead, thus they were as free a parliament as ever ſate in England, he never interrupted them, or intermixed himſelfe with any of their tranſactions, but took all care for their ſecurity to protect them, and the Nations in peace and ſafety, that they never came to ad<g ref="char:EOLhyphen"/>viſe with him for the good of the Nations, that he ex<g ref="char:EOLhyphen"/>pected and ſo did the good people of the Common wealth, that they ſhould have made ſome good Laws for the caſe and benefit of the people, but inſtead of that
+<pb n="5" facs="tcp:119050:3"/>their chief buſineſſe was to alter the Government by which they were called, and which they found ſetled; and if they could not any of them in conſcience have acted by that Authority by which they were called to ſit in parliament. that they might have done fairely to have told the people ſo in the Counties where they were choſen, that ſo they might have choſen others.</p>
+            <p>
+               <hi>That it was objected by ſome, that they had ſigned the en<g ref="char:EOLhyphen"/>gagement to be faithfull to the Common wealth as eſtabliſht, when they ſigned it, without a King or Houſe of Lords, which ingagement was a trap to catch men and a ſnare to the Con<g ref="char:EOLhyphen"/>ſcience. But howſoever that when it was taken, there was no Government ſetled, it was never intended that there ſhould be a perpetuall Parliament, neither was it declared to be that Go<g ref="char:EOLhyphen"/>vernment, and divers of the Members of Parliament then ſit<g ref="char:EOLhyphen"/>ting were weary of ſitting, and would willingly (as themſelves have ſaid) have adjourned and gone home if they could tell how, but that they feared if they ſhould then have riſen before a Government was ſetled, that they feared to be bloodily but<g ref="char:EOLhyphen"/>chered when they came home. And that the Government which iſſued out upon their diſſolution was his preſent Govern<g ref="char:EOLhyphen"/>ment, by a ſingle perſon and a Parliament, and that to the greateſt content of the people. And that he is perſwaded it would have been a great joy to them if he could have attain<g ref="char:EOLhyphen"/>ed to have had the Government ſo ſetled as this Parliament found it, that there might not be on the one ſide the extream of Monarchy by a Kingly Power, nor on the other extream a Democraſy of confuſion, for if it was ſworn to be true and faithfull to a Government, then not to a Democraſy, or none at all. And that the preſent Government is owned by the people very unanimouſly in all the Counties and parts of the Common<g ref="char:EOLhyphen"/>wealth.</hi>
+            </p>
+            <pb n="6" facs="tcp:119050:4"/>
+            <p>That he was ſorry the Parliament had not, during their ſit<g ref="char:EOLhyphen"/>ting, anſwered the expectations of the people. And that there are ſome Trees that will grow no where but under other Trees.</p>
+            <p>That if they would not ſuffer others to grow under them was a thing very hard. But they had ſuffered weeds, thorns, and bryers to grow under their ſhaddow.</p>
+            <p>And then his Highneſſe mentioned and declared ſeverall par<g ref="char:EOLhyphen"/>ticulars of the late plot diſcovered, and ſhewed how it was the moſt ſad and bloody deſign that ever was againſt England, and the moſt dangerous, had not God ſtept in, and wonderfully be<g ref="char:EOLhyphen"/>yond the actings of men, appeared in the preventing of it; all the Armes that could be got for money bought up in the City, perſons ingaged in all parts of England, and by a baſe people, ſuch as the thoughts of it was moſt ſad, under whoſe butchery; we ſhould not have dyed as by the hands of men, but of beaſts.</p>
+            <p>That theſe were ſuffered to grow under their ſhaddow, no care taken to root them out, onely the Lord appeared in it, and prevented it.</p>
+            <p>Then his Highneſs again declared, That there was occaſion ta<g ref="char:EOLhyphen"/>ken by divers diſcontented and looſe perſons, to deſign under their preſent diſtractions, and an endevour uſed to divide the Army, and ſome drawn to act.</p>
+            <p>His Highneſs further declared, That there were ſome (whom he could name) that went into the City, and preſſed them that they would come to the Parliament with Petitions to carry on their purpoſes.</p>
+            <p>And that the Parliament having delayed the Act for the Aſ<g ref="char:EOLhyphen"/>ſements, there were ſome of the Souldiery, for want of pay, dri<g ref="char:EOLhyphen"/>ven to burden the people by Free quarter, for they could not feed upon ſtones, which the long Parliament would rather have loſt their lives than have ſuffered: And that forces were ready to have come out of Scotland, to march into England, but the wiſ<g ref="char:EOLhyphen"/>dome of the General there prevented it.</p>
+            <p>His Highneſſe again declared to the Parliament, that there were many honeſt Godly Gentlemen amongſt them, that he hoped, were men fearing God, whom hee could chearfully
+<pb n="7" facs="tcp:119050:4"/>venture to lay down his life for. That he proteſted his deſires are meerly for the good and ſafety of the Common-wealth.</p>
+            <p>And however ſome ſay they know not what the cauſe is that hath been talked of, yet he doth thank the Lord he doth know what the cauſe is he hath gone upon, which the Lord hath ſo owned and bleſt; and which he doubts not but that for the ſake of Gods choyce ones in this Nation, the Lord will ſtill ap<g ref="char:EOLhyphen"/>pear for them.</p>
+            <p>However, the Independents are abuſed, and laboured to be cruſhed, yet hee knows them to be godly, and ventured their blood and lives further than others; and minded them what a ſettlement there was made of proviſion for the godly and able Miniſters of the Land, and alſo ſhewed how the people of God, though different in judgment in ſome circumſtances, ſhould own and love one another, and that though ſometimes Gods Children be froward, yet we ſhould not caſt them off; God is more merciful, and will own the leaſt dram of Grace in his ten<g ref="char:EOLhyphen"/>der Lambes.</p>
+            <p>His Highneſs further declared, that there were divers honeſt men of the Rebaptized Judgment, that are ſound in other things; God forbid, but that they ſhould be looked upon through the Spirit of Meekneſs.</p>
+            <p>And that whereas ſome ſay, that the Lord Protector doth all to make his own Family great, he did proteſt, that if to the In<g ref="char:EOLhyphen"/>ſtrument they ſhould have added but this one thing, that the Government ſhould have been Hereditary, and no other altera<g ref="char:EOLhyphen"/>tion at all, that for that very thing he would have rejected it, becauſe it would be an unfaithfulneſſe to his truſt; Fo, a wiſe, godly, and honeſt Father, may have a fooliſh, wicked, and nough<g ref="char:EOLhyphen"/>ty Son.</p>
+            <pb n="8" facs="tcp:119050:5"/>
+            <p>This Declaration, or ſpeech, with many other excellent particulars, he went through. And in the concluſion, ſaid, That he did not think it for the good of the Nation, nor to anſwer their ex<g ref="char:EOLhyphen"/>pectations, to continue their ſitting any longer: Therefore he did declare, that he did diſſolve the Parliament. VVhereupon, they made no deſire at all to his Highneſs to ſit longer, nor any ſpeech at all to him; but their time of five months being expired, took their leaves of his Highneſs, and de<g ref="char:EOLhyphen"/>parted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
